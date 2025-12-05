@@ -6,7 +6,7 @@
 
 - 🔎 いま取り組んでいること: **MPEG2-TSの圧縮効率化を探ること(非公開プロジェクト)**
 - 🌱 習得中の技術: **AV1コーデック**
-- 📫 連絡先: **[s24028＠std.it-college.ac.jp]**
+- 📫 連絡先: **mailto:[s24004@std.it-college.ac.jp]**
 
 ---
 
@@ -32,6 +32,21 @@
 ### ツールとか...
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+---
+## これまでの作品
+## [denryoku-blackout-viewer]
+**技術スタック:** Node.js, Leaflet.js
+
+日本国内の電力会社の停電情報を取得できるマップビューア(開発中)
+
+## [Book_manager]
+**技術スタック:** Node.js, Express.js, PostgreSQL, Prisma
+
+書籍管理システム
+
 
 ---
 
